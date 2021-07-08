@@ -7,10 +7,10 @@ var gameState,readState;
 
 function preload(){
 sadDog=loadImage("images/Dog.png");
-happyDog=loadImage("images/Happy.png");
+happyDog=loadImage("images/happy_dog.png");
 garden=loadImage("images/Garden.png");
-washroom=loadImage("images/Wash Room.png");
-bedroom=loadImage("images/Bed Room.png");
+washroom=loadImage("images/Wash_Room.png");
+bedroom=loadImage("images/Bed_Room.png");
 }
 
 function setup() {
